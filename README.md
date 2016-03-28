@@ -1,5 +1,6 @@
 # NSString-Picture
-一个NSString的分类+自定义NSTextAttachment,基于正则表达式 返回一个带有图片的NSAttributedString
+- 一个NSString的分类+自定义NSTextAttachment,基于正则表达式 返回一个带有图片的NSAttributedString
+
 
 ##仅仅只有一个方法 参数是正则表达式
 
@@ -14,3 +15,4 @@
 ```
 
 ##目前仅支持图片是大概是方正的 太过宽, 太过高没有进行测试
+
